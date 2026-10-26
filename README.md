@@ -2,7 +2,7 @@
 - 👀 I’m interested in cars & IT.
 - 🌱 I’m currently learning Python.
 - 📫 How to reach me:
-Instagram: @pv_krzysiu_pv
+Instagram: @itzmekrzychu
 Other social media I will add soon!
 
 <!---
